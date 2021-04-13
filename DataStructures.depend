@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1616954328 source:c:\users\dharmik\myworkspace\codeblocks\datastructures\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mylinkedlist.h"
+
+1616954305 ist.h"
+
+1616937585 source:c:\users\dharmik\myworkspace\codeblocks\datastructures\stack.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<ctype.h>
+	"mystack.h"
+
+1616937550 "
+
+1616937591 c:\users\dharmik\myworkspace\codeblocks\datastructures\mystack.h
+
+1616849026 source:c:\users\dharmik\myworkspace\codeblocks\datastructures\mystack.h
+
+1616937550 source:c:\users\dharmik\myworkspace\codeblocks\datastructures\queue.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"myqueue.h"
+
+1616937555 c:\users\dharmik\myworkspace\codeblocks\datastructures\myqueue.h
+
+1616954305 source:c:\users\dharmik\myworkspace\codeblocks\datastructures\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"mylinkedlist.h"
+
+1616951720 c:\users\dharmik\myworkspace\codeblocks\datastructures\mylinkedlist.h
+
+1617126768 source:/home/dharmik/MyWorkSpace/CodeBlocks/DataStructures/linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"mylinkedlist.h"
+
+1617013452 /home/dharmik/MyWorkSpace/CodeBlocks/DataStructures/mylinkedlist.h
+
+1617354293 source:/home/dharmik/MyWorkSpace/CodeBlocks/DataStructures/main.c
+	<stdio.h>
+	<stdlib.h>
+	"mydblinkedlist.h"
+
+1616937550 source:/home/dharmik/MyWorkSpace/CodeBlocks/DataStructures/queue.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"myqueue.h"
+
+1616937555 /home/dharmik/MyWorkSpace/CodeBlocks/DataStructures/myqueue.h
+
+1616937585 source:/home/dharmik/MyWorkSpace/CodeBlocks/DataStructures/stack.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<ctype.h>
+	"mystack.h"
+
+1616937591 /home/dharmik/MyWorkSpace/CodeBlocks/DataStructures/mystack.h
+
+1617354845 source:/home/dharmik/MyWorkSpace/CodeBlocks/DataStructures/dblinkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"mydblinkedlist.h"
+
+1617354249 /home/dharmik/MyWorkSpace/CodeBlocks/DataStructures/mydblinkedlist.h
+
